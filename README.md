@@ -17,10 +17,8 @@ A fully responsive web application for tracking crop progress across multiple fi
 
 ## Setup Instructions
 
-### Option A — Use as a React Artifact (Claude.ai)
-Paste the contents of `SmartSeason.jsx` directly into Claude's artifact runner as a React component.
 
-### Option B — Standalone React App
+### Option A — Standalone React App
 
 ```bash
 npx create-react-app smartseason
@@ -29,7 +27,7 @@ cd smartseason
 npm start
 ```
 
-### Option C — Full-Stack (Recommended for Production)
+### Option B — Full-Stack (Recommended for Production)
 
 **Backend**: Laravel / Node.js + Express  
 **Frontend**: React (Vite)  
